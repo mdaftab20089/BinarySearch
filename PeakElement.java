@@ -1,4 +1,5 @@
 public class PeakElement {
+
     public static int PE(int arr[],int n){
         if(n==1) return 0;
         // boundary condition.
@@ -25,7 +26,7 @@ public class PeakElement {
     }
 
     public static void main(String[] args) {
-        int arr[]={1,3,4,2,5,6,3};
-        System.out.println(PEBS(arr, arr.length));
+
+        //System.out.println(count_freq(1122334));
     }
 }

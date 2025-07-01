@@ -71,5 +71,6 @@ public class First_Last_Occurrance {
     public static void main(String[] args) {
            int[] arr={1,2,3,4,5,5,5,6,8,8,8,9,9,9,9,9,9,10};
            First_Last_Occurrance_Binary(arr, arr.length-1, 5);
+
     }
 }
